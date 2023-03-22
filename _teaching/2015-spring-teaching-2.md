@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "R for Data Science"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+type: "Class"
+permalink: /teaching/R4DS-2022
+venue: "Northwestern University, Earth & Planetary Science | Environmental Science | Plant Biology and Conservation"
 date: 2015-01-01
-location: "City, Country"
+location: "Evanston, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
