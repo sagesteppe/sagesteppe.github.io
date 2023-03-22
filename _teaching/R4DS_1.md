@@ -3,7 +3,7 @@ title: "R for Data Science"
 collection: teaching
 type: "Graduate/Upper Undergraduate (300+)"
 permalink: /teaching/R4DS_1
-venue: "Northwestern University, Earth & Planetary Science"
+venue: "Northwestern University, Earth & Planetary Science | Environmental Science | Plant Biology & Conservation "
 date: 2021-01-01
 location: "Evanston, Illinois"
 ---
