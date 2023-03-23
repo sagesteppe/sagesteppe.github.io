@@ -1,7 +1,7 @@
 ---
 title: "Metagenomic Barcoding of Pollen Loads Offers Insights on the Foraging Patterns of Queen Bumble Bees"
 collection: talks
-type: "Defence"
+type: "Defense"
 permalink: /talks/Masters_Defense
 venue: "Chicago Botanic Garden"
 date: 2023-03-01
