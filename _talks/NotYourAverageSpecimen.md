@@ -8,4 +8,4 @@ date: 2021-06-20
 location: "Virtual"
 ---
 
-I sponsored this talk for an undergraduate student that I mentored, Emily Woodworth. Her excellent talk is available [here](https://2021.botanyconference.org/engine/search/index.php?func=detail&aid=924). 
+This talk was given by an undergraduate student that I mentored, Emily Woodworth. Her excellent talk is available [here](https://2021.botanyconference.org/engine/search/index.php?func=detail&aid=924). 
