@@ -1,11 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Metagenomic Barcoding of Pollen Loads Offers Insights on the Foraging Patterns of Queen Bumble Bees"
 collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+type: "Defence"
+permalink: /talks/Masters_Defense
+venue: "Chicago Botanic Garden"
+date: 2023-03-01
+location: "Glencoe IL, USA"
 ---
 
 [More information here](http://exampleurl.com)
