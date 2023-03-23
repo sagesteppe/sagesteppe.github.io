@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "about me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I have worked as a field botanist in Western North America since graduating from the Evergreen State College in 2014. Most of my experience is in semi-arid, and arid land administered by the Bureau of Land Management. Although I have worked professionally from roughly 3 to ~ 13,000+ feet
