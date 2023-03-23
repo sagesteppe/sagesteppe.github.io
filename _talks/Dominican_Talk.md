@@ -2,7 +2,7 @@
 title: "About a botanist"
 collection: talks
 type: "Defense"
-permalink: /talks/Masters_Defense
+permalink: /talks/Dominican_Talk
 venue: "Dominican University"
 date: 2021-9-12
 location: "River Forest IL, USA"
