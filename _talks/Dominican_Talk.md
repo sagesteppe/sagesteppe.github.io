@@ -1,5 +1,5 @@
 ---
-title: "A life in botany"
+title: "About a botanist"
 collection: talks
 type: "Defense"
 permalink: /talks/Masters_Defense
