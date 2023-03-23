@@ -1,7 +1,7 @@
 ---
 title: "About a botanist"
 collection: talks
-type: "Defense"
+type: "Outreach"
 permalink: /talks/Dominican_Talk
 venue: "Dominican University"
 date: 2021-9-12
