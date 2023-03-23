@@ -8,4 +8,4 @@ date: 2022-02-22
 location: "Evanston, USA"
 ---
 
-I had a 40 minute guest lecture on [Species Distribution Modelling](https://rpubs.com/steppe27/1006352)
+I developed and delivered a 40 minute guest lecture on [Species Distribution Modelling](https://rpubs.com/steppe27/1006352)
