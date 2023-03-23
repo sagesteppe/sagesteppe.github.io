@@ -4,7 +4,7 @@ collection: talks
 type: "Outreach"
 permalink: /talks/Dominican_Talk
 venue: "Dominican University"
-date: 2021-9-12
+date: 2021-12-9
 location: "River Forest IL, USA"
 ---
 
