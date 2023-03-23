@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have worked as a field botanist in Western North America since graduating from the Evergreen State College in 2014. Most of my experience is in semi-arid, and arid land administered by the Bureau of Land Management. Although I have worked professionally from roughly 3 to ~ 13,000+ feet.
+I have worked as a field botanist in Western North America since graduating from the Evergreen State College in 2014. Most of my experience is in semi-arid, and arid land administered by the Bureau of Land Management. Although I have worked professionally from roughly 3 to ~ 13,000+ feet. I received my Masters in Plant Biology and Conservation from Northwestern University and the Chicago Botanic Garden and was advised by [Jeremie Fant](https://sites.northwestern.edu/fant-lab/). 
 
 If you are looking for work as a field botanist in western north america, please reach out. I almost certainly have friends currently looking for employees.
 
