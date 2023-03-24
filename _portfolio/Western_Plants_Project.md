@@ -1,6 +1,6 @@
 ---
 title: "Western Plants Project"
-excerpt: "We developed these to assist early career botanists, ecologists, and rangeland scientists to identify plant material"
+excerpt: "This was a project which I began with Alec Latuszek while we were at the Great Basin Institude to help early career botanists, ecologists, and rangeland scientists to identify plant specimens"
 collection: portfolio
 ---
 
