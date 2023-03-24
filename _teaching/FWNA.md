@@ -3,7 +3,7 @@ title: "An Introduction to the Flora of Western North America"
 collection: teaching
 type: "Professional"
 permalink: /teaching/R4DS-2021
-venue: "Northwestern University, Earth & Planetary Science | Environmental Science | Plant Biology and Conservation"
+venue: "The Great Basin Institute - Research Associate Program"
 date: 2018-05-01
 location: "Reno, Nevada, USA"
 ---
