@@ -2,7 +2,7 @@
 ---
 title: "Plant Metagenomic Barcoding using Angiosperms353 of Corbiculae from wild Bumble Bees"     
 collection: publications    
-permalink: /publication/2010-10-01-paper-title-number-4     
+permalink: /publications/2010-10-01-paper-title-number-4     
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'   
 date: 2010-10-01   
 venue: 'Journal 1'   
