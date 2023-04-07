@@ -1,6 +1,6 @@
 
 ---
-title: "Paper Title Number 2"     
+title: "Plant Metagenomic Barcoding using Angiosperms353 of Corbiculae from wild Bumble Bees"     
 collection: publications    
 permalink: /publication/2010-10-01-paper-title-number-4     
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'   
